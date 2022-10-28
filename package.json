@@ -1,13 +1,13 @@
 {
-  "name": "test001",
+  "name": "Mikeytest01",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "เว็บสล็อตแตกไว แจกเครดิตฟรี เกมเยอะ",
   "keywords": [
-    "syntax",
-    "theme"
+    "สล็อตออนไลน์ ฝากถอนไม่มีขั้นต่ำ",
+    "สล็อตเครดิตฟรี"
   ],
-  "repository": "https://github.com/atom/test001",
+  "repository": "https://github.com/Malee74/mikey",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
